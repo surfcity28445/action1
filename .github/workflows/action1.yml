@@ -7,6 +7,6 @@ jobs:
       - name: greeting
         run: |
             echo "job act 1"
-            echo "job act 2"
+            echo "job act 22"
       - name: greeting2
         run: echo "job act 2"
